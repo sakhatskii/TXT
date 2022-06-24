@@ -1,0 +1,5 @@
+first name Aleksandr
+second name Sakhatskii
+age 31
+salary 1000$
+
