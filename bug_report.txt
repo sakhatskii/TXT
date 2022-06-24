@@ -1,0 +1,9 @@
+Bug_id: id_1
+Title: 
+Severity: critical
+Priority: high
+Environment: macOS 10.13.6
+Precondition: 
+STR: 1, 2, 3
+AR: 
+ER: 
