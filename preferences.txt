@@ -1,0 +1,5 @@
+movie - whiplash
+series - the big bang theory
+food - burger
+season - summer
+country - usa

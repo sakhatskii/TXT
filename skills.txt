@@ -1,0 +1,11 @@
+skills:
+-terminal
+-JavaScript
+-Postman
+-Http
+-Charles
+-Fidler
+-DevTools
+-Xcode
+-Android Studio
+-SQL
